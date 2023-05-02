@@ -1,0 +1,5 @@
+https://www.aranacorp.com/en/serial-communication-between-raspberry-pi-and-arduino/
+
+https://how2electronics.com/weighing-machine-arduino-load-cell-hx711/#:~:text=Load%20cell%20which%20is%20an,on%20the%2016*2%20LCD.
+
+https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm
